@@ -6,7 +6,7 @@
 
 .NET · Angular · SQL
 
-[Explore my repositories](https://github.com/Abdelrahman-nabih?tab=repositories)
+[Portfolio](https://cjs-pi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abdelrahman-nabih-333653286) · [Repositories](https://github.com/Abdelrahman-nabih?tab=repositories)
 
 </div>
 
@@ -41,4 +41,6 @@ I'm interested in how software engineering supports reliable data systems and be
 
 ---
 
-[Browse my public work →](https://github.com/Abdelrahman-nabih?tab=repositories)
+## Connect
+
+[Visit my portfolio](https://cjs-pi.vercel.app/) or [connect with me on LinkedIn](https://www.linkedin.com/in/abdelrahman-nabih-333653286).
