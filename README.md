@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Abdelrahman-nabih/Abdelrahman-nabih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abdelrahman Nabih
 
-Here are some ideas to get you started:
+### Backend & Full-Stack Development · Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.NET · Angular · SQL
+
+[Explore my repositories](https://github.com/Abdelrahman-nabih?tab=repositories)
+
+</div>
+
+---
+
+I'm Abdelrahman. My focus is backend and full-stack development, with an interest in the full journey from application data to useful insights.
+
+My projects use **C# and ASP.NET Core** for APIs, **Angular and TypeScript** for web interfaces, and **relational databases** for persistence. I'm also interested in opportunities across data engineering, analytics, business intelligence, and data science.
+
+## Development focus
+
+- **Backend:** REST APIs, authentication and authorization, application architecture, and database integration.
+- **Full stack:** Web interfaces connected to backend services, administration workflows, and server-side rendering.
+- **Quality:** Clear documentation, automated tests, and reproducible builds.
+
+## Technologies in my projects
+
+| Area | Technologies |
+| :--- | :--- |
+| Backend | C#, .NET, ASP.NET Core, Entity Framework Core |
+| Frontend | Angular, TypeScript, HTML, CSS |
+| Databases | PostgreSQL, SQLite |
+| Workflow & testing | Git, GitHub Actions, Docker, xUnit |
+
+## Data interests
+
+I'm interested in how software engineering supports reliable data systems and better decisions:
+
+- **Data engineering:** Data pipelines, integration, and data quality.
+- **Analytics & BI:** SQL analysis, reporting, and dashboards.
+- **Data science & machine learning:** Exploring data, evaluating models, and connecting results to applications.
+
+---
+
+[Browse my public work →](https://github.com/Abdelrahman-nabih?tab=repositories)
